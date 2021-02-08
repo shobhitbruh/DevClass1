@@ -19,8 +19,9 @@ function cb(error , response , html){
 }
 
 function processHtml(html){
-    console.log("inside allmatches file");
+    // console.log("inside allmatches file");
     // 
+    fs.writeFileSync("./allmatches.html",html);
 }
 
 
