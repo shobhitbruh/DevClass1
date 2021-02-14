@@ -1,0 +1,26 @@
+[
+    {
+        "Opponent": "Kolkata Knight Riders",
+        "Runs": "74",
+        "Balls": "58",
+        "Fours": "6",
+        "Sixes": "0",
+        "Strike_Rate": "127.59"
+    },
+    {
+        "Opponent": "Sunrisers Hyderabad",
+        "Runs": "11",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike_Rate": "68.75"
+    },
+    {
+        "Opponent": "Chennai Super Kings",
+        "Runs": "63",
+        "Balls": "52",
+        "Fours": "7",
+        "Sixes": "1",
+        "Strike_Rate": "121.15"
+    }
+]
